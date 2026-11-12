@@ -1,0 +1,17 @@
+{
+  "brand": {"name": "온결", "english": "ONGYEOL", "slogan": "사진보다 실물이 따뜻한, 매일 손에 닿는 그릇", "note": "가상 브랜드 · 연습용"},
+  "products": [
+    {"id":"og-001","name":"온결 밥공기","color":"오트밀","category":"공기","price":14000,"image":"images/bowl-rice.svg","capacity_ml":320,"diameter_mm":115,"weight_g":240,"dishwasher":true,"microwave":true,"oven":false,"desc":"한 손에 쏙 들어오는 크기의 밥공기. 매끈한 유약이 손끝에 부드럽게 감깁니다."},
+    {"id":"og-002","name":"온결 국그릇","color":"세이지","category":"국그릇","price":16000,"image":"images/bowl-soup.svg","capacity_ml":450,"diameter_mm":135,"weight_g":310,"dishwasher":true,"microwave":true,"oven":false,"desc":"국물이 식지 않도록 안쪽을 살짝 깊게 만든 국그릇. 차분한 세이지 톤입니다."},
+    {"id":"og-003","name":"온결 면기","color":"스톤","category":"면기","price":22000,"image":"images/bowl-noodle.svg","capacity_ml":900,"diameter_mm":180,"weight_g":520,"dishwasher":true,"microwave":true,"oven":false,"desc":"라면부터 비빔국수까지 넉넉히 담기는 넓은 면기. 단단한 스톤 컬러."},
+    {"id":"og-004","name":"온결 원형 접시 21cm","color":"오트밀","category":"접시","price":18000,"image":"images/plate.svg","capacity_ml":null,"diameter_mm":210,"weight_g":420,"dishwasher":true,"microwave":true,"oven":false,"desc":"샐러드, 토스트, 반찬까지 두루 어울리는 기본 접시. 겹쳐서 보관하기 좋습니다."},
+    {"id":"og-005","name":"온결 디저트볼","color":"블러시","category":"디저트볼","price":12000,"image":"images/bowl-dessert.svg","capacity_ml":260,"diameter_mm":105,"weight_g":190,"dishwasher":true,"microwave":true,"oven":false,"desc":"요거트·과일·아이스크림용 작은 볼. 은은한 블러시 핑크."},
+    {"id":"og-006","name":"온결 머그","color":"세이지","category":"머그","price":15000,"image":"images/mug.svg","capacity_ml":330,"diameter_mm":85,"weight_g":280,"dishwasher":true,"microwave":true,"oven":false,"desc":"손잡이가 편한 330ml 머그. 아침 커피와 차에 두루 어울립니다."},
+    {"id":"og-007","name":"온결 2인 식탁 세트 (4P)","color":"오트밀 + 세이지","category":"세트","price":54000,"image":"images/set-4p.svg","capacity_ml":null,"diameter_mm":null,"weight_g":1100,"dishwasher":true,"microwave":true,"oven":false,"desc":"밥공기 2개와 국그릇 2개 구성. 선물용 포장 가능.","contents":["밥공기 x2","국그릇 x2"]}
+  ],
+  "notices": [
+    "수제 유약 특성상 미세한 색 차이와 작은 기포 자국이 있을 수 있어요. (불량 아님)",
+    "파손 방지 이중 포장으로 발송되며, 파손 시 사진과 함께 7일 이내 문의하면 교환해 드립니다. (가상 정책)",
+    "모든 제품은 가상 정보이며 연습용입니다."
+  ]
+}
